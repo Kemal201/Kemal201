@@ -1,8 +1,8 @@
 ##  Opaa! Tudo bom? Eu sou o Kemal!
 - 🐘 Hoje estou estudando PHP POO
-- 🇼 Estudando WordPress
+<!-- - 🇼 Estudando WordPress -->
 - 👨‍💻 Estudando JavaScript
-- 👨‍💻 Estudando Flutter
+<!-- - 👨‍💻 Estudando Flutter -->
 - 😄 Pronouns: Ele/Dele
 - 🐧 Team Linux - Ubuntu 
 <br>
