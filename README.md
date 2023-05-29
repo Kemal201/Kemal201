@@ -1,6 +1,6 @@
 ##  Opaa! Tudo bom? Eu sou o Kemal!
-- 🐘 Hoje estou estudando PHP POO
-- 👨‍💻 Estudando JavaScript
+- 🐘 PHP POO
+- 👨‍💻 JavaScript com foco em desenvolvimento WEB
 - 🐧 Team Linux - Ubuntu 
 <!-- - 🇼 Estudando WordPress -->
 <!-- - 👨‍💻 Estudando Flutter -->
